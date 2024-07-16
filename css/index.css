@@ -1,5 +1,5 @@
 .bg-image {
-    background-image: url('/services/call-center-bg.jpg');
+    background-image: url('./services/call-center-bg.jpg');
     background-size: cover;
     background-position: center;
     color: white;
